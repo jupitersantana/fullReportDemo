@@ -1,0 +1,26 @@
+{
+  "brands": [
+    {
+      "name": "GarmsAffiliated",
+            "meta": {
+                "account_ids": ["act_123"],
+                "access_token": "EAAb1o7yAFI4BOycZAqdoM3ZBCZAFSYsZAPqW6gdk2iCMoKZBauiJh8DEIwmZBpvi5YdhixDRwJl7ZB3IB5Kwv5rvZCDCelrfM6PKcqKl0a5QWagZAXQFo64eUxBfbMWASDCerJhbm2ZCZAsyv90gax0gJoUpwPZAoQSinUnbeNL2pOqRt9QUE0ILrlpmWTpA"
+            },
+            "google": {
+                "customer_ids": ["285-681-1843"],
+                "refresh_token": "xyz..."
+            },
+            "tiktok": {
+                "advertiser_ids": ["123456789"],
+                "access_token": "tt-token"
+            },
+            "shopify": {
+                "domain": "a55971.myshopify.com",
+                "access_token": "shpat_..."
+            },
+            "clickup": {
+                "task_id": "868e9zerk"
+        }
+    }
+  ]
+}
